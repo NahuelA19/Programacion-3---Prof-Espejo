@@ -1,4 +1,4 @@
-# Parcial 2 - Construir una API REST con Spring Boot
+# Borrador -Parcial 2 - Construir una API REST con Spring Boot
 
 Profesor Espejo - Alumno : Agustin Nahuel Aciar COM3
 
